@@ -25,6 +25,7 @@ warmStrategyCache({
   strategy: pageCache,
 });
 
+// TODO: Implement asset caching
 registerRoute(
   ({ request }) => request.mode === 'navigate', pageCache),
   new StaleWhileRevalidate({
@@ -38,5 +39,5 @@ registerRoute(
     ],
   })
 
-// TODO: Implement asset caching
+
 registerRoute();
