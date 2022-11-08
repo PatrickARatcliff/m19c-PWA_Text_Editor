@@ -33,8 +33,8 @@ module.exports = () => {
         name: 'JATE',
         short_name: 'JATE',
         description: 'Save your snippets!',
-        // background_color: '#225ca3',
-        // theme_color: '#225ca3',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
