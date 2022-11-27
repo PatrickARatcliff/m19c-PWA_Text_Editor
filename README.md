@@ -7,7 +7,7 @@ Links:
 
 [github repo url: https://github.com/PatrickARatcliff/m19c-PWA_Text_Editor](https://github.com/PatrickARatcliff/m19c-PWA_Text_Editor)
 
-[heroku deployed url: https://m19c-pwa-text-editor.herokuapp.com//](https://m19c-pwa-text-editor.herokuapp.com/)
+[heroku deployed url: https://m19c-pwa-text-editor.herokuapp.com/](https://m19c-pwa-text-editor.herokuapp.com/)
 
 Screenshots:
 
