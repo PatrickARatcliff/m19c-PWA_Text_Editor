@@ -24,7 +24,7 @@ module.exports = () => {
       }),
       // configure workbox plugins for a service worker
       new GenerateSW({
-        swDest: './dist/src-sw.js',
+        swDest: 'src-sw.js',
       }),
       // configure workbox plugins for a manifest file
       new WebpackPwaManifest({

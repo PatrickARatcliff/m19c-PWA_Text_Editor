@@ -1,10 +1,4 @@
-# Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
-
-In this mini-project, you are given a simple application that needs to be updated to use webpack, service workers, and IndexedDB. In addition, it must have PWA functionality in order to work properly. Once you have updated the application with these new features, you will deploy it to Heroku. Heroku is not new to you, but you will need to add a handful of special scripts so that it knows to deploy your bundled application.
-
-## User Stories
-
-Work with your group to resolve the following issues:
+# m19c-PWA_Text_Editor
 
 * As a user, I want to be able to install the web application as a PWA.
 
