@@ -1,5 +1,5 @@
 # m19c-PWA_Text_Editor
-# The app will is single-page application that meets PWA criteria
+# The app is single-page application that meets PWA criteria
 # ![MIT License](https://img.shields.io/static/v1?label=license&message=MIT&color=green)
 # Date: 26/11/2022, 19:31:50 pm
 
